@@ -1,4 +1,4 @@
-# Rummy Tracker
+# Rummy Tracker Instructions
 
 A web app to track multi-round Rummy scores, calculate fair payouts, and display settlements.
 
