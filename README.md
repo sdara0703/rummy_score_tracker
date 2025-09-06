@@ -19,6 +19,9 @@ A web app to track multi-round Rummy scores, calculate fair payouts, and display
 2. Install dependencies and run frontend
 
 ```bash
+
+curl -fsSL https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
 cd frontend
-npm install
-npm run dev
+nvm instsll 18
+nvm use 18
+npm run dev -- --port 3000
